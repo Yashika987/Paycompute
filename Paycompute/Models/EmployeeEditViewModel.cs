@@ -27,7 +27,8 @@ namespace Paycompute.Models
         public string ImageUrl { get; set; }
         [DataType(DataType.Date), Display(Name = "Date of Birth")]
         public DateTime DOB { get; set; }
-       
+        [DataType(DataType.Date), Display(Name = "Date of Join")]
+        public DateTime DateJoined { get; set; }
         [Required(ErrorMessage = "Job Role Required"), StringLength(100)]
         public string Designation { get; set; }
         [DataType(DataType.EmailAddress)]
