@@ -1,0 +1,9 @@
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.csprojAssemblyReference.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.AssemblyInfoInputs.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.AssemblyInfo.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.csproj.CoreCompileInputs.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.RazorAssemblyInfo.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\net5.0\Paycompute.RazorAssemblyInfo.cs

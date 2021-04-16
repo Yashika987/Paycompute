@@ -22,6 +22,8 @@ namespace Paycompute.Entity
         public DateTime DateJoined { get; set; }
         public string Designation { get; set; }
         public string Email { get; set; }
+        [Required]
+        public string PhoneNo { get; set; }
         [Required, MaxLength(50)]
         public string UAN { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
