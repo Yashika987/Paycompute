@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.WebPages.Html;
 
 namespace Paycompute.Services
 {
@@ -17,5 +18,6 @@ namespace Paycompute.Services
         decimal StudentLoanRepaymentAmount(int id, decimal totalAmount);
 
         IEnumerable<Employee> GetAll();
+        IEnumerable<SelectListItem> GetAllEmployeesForPayroll();
     }
 }

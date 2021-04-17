@@ -1,48 +1,52 @@
-﻿using System;
+﻿using Paycompute.Entity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace Paycompute.Entity
+namespace Paycompute.Models
 {
-    public class PaymentRecord
+    public class PaymentRecordCreateViewModel
     {
         public int Id { get; set; }
+        [Display(Name="Full Name")]
         public int EmployeeId { get; set; }
         public Employee Employee { get; set; }
-        [MaxLength(100)]
+       
         public string FullName { get; set; }
         public string UAN { get; set; }
-        public DateTime PayDate { get; set; }
-        public string PayMonth { get; set; }
-        [ForeignKey("TaxYear")]
+        [DataType(DataType.Date), Display(Name = "Pay Date")]
+        public DateTime PayDate { get; set; } = DateTime.UtcNow;
+        public string PayMonth { get; set; } = DateTime.Today.Month.ToString();
+        [Display(Name = "Tax Year")]
         public int TaxYearId { get; set; }
         public TaxYear TaxYear { get; set; }
-        public string TaxCode { get; set; }
-        [Column(TypeName = "money")]
+        public string TaxCode { get; set; } = "1250L";
+        [Display(Name = "Hourly Rate")]
         public decimal HourlyRate { get; set; }
-        [Column(TypeName = "decimal(18,2)")]
+        [Display(Name = "Hours Worked")]
         public decimal HoursWorked { get; set; }
-        [Column(TypeName = "decimal(18,2)")]
-        public decimal ContractualHours { get; set; }
-        [Column(TypeName = "decimal(18,2)")]
+
+        [Display(Name = "Contractual Hours")]
+        public decimal ContractualHours { get; set; } = 144m;
+      
         public decimal OvertimeHours { get; set; }
         public decimal OverTimeEarnings { get; set; }
-        [Column(TypeName = "money")]
+
         public decimal ContractualEarnings { get; set; }
-        [Column(TypeName = "money")]
+       
         public decimal Tax { get; set; }
-        [Column(TypeName = "money")]
+       
         public decimal PFC { get; set; }
-        [Column(TypeName = "money")]
+       
         public decimal? UnionFee { get; set; }
         public Nullable<decimal> SLC { get; set; }
-        [Column(TypeName = "money")]
+     
         public decimal TotalEarnings { get; set; }
-        [Column(TypeName = "money")]
+       
         public decimal TotalDeduction { get; set; }
-        [Column(TypeName = "money")]
+     
         public decimal NetPayment { get; set; }
     }
 }
