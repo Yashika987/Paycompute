@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Hosting.Internal;
+using Microsoft.Extensions.Hosting;
 using Paycompute.Entity;
 using Paycompute.Models;
 using Paycompute.Services;
@@ -15,9 +15,9 @@ namespace Paycompute.Controllers
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;
-        private readonly HostingEnvironment _hostingEnvironment;
+        private readonly IWebHostEnvironment _hostingEnvironment;
 
-        public EmployeeController(IEmployeeService employeeService, HostingEnvironment hostingEnvironment)
+        public EmployeeController(IEmployeeService employeeService, IWebHostEnvironment hostingEnvironment)
         {
             _employeeService = employeeService;
             _hostingEnvironment = hostingEnvironment;
@@ -204,9 +204,9 @@ namespace Paycompute.Controllers
             {
                 return NotFound();
             }
-            var model = new EmployeeDeleteViewModel()           {
+            var model = new EmployeeDeleteViewModel() {
                 ID = employee.ID,
-            FullName = employee.FirstName
+            FullName = employee.FirstName+ " "+employee.LastName
             };
             return View(model);
         }

@@ -1,3 +1,12 @@
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfoInputs.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfo.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cache
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.dll
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.pdb
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.StaticWebAssets.xml
@@ -9,6 +18,11 @@ C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcore
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.pdb
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Views.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Views.pdb
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
@@ -23,6 +37,7 @@ C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcore
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
@@ -42,13 +57,6 @@ C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcore
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Services.pdb
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Persistent.pdb
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csprojAssemblyReference.cache
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfoInputs.cache
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfo.cs
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cache
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cs
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\staticwebassets\Paycompute.StaticWebAssets.Manifest.cache
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\staticwebassets\Paycompute.StaticWebAssets.xml
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\scopedcss\bundle\Paycompute.styles.css
@@ -56,6 +64,11 @@ C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcore
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.TagHelpers.output.cache
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorCoreGenerate.cache
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -69,6 +82,4 @@ C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcore
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorTargetAssemblyInfo.cs
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.Views.pdb
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CopyComplete
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.dll
-C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.pdb
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.genruntimeconfig.cache

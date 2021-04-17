@@ -29,10 +29,8 @@ namespace Paycompute.Services.Implementation
             await _context.SaveChangesAsync();
         }
 
-        public IEnumerable<Employee> GetAll()
-        {
-            throw new NotImplementedException();
-        }
+        public IEnumerable<Employee> GetAll() => _context.Employees;
+        
 
         public Employee GetById(int employeeId) => 
             _context.Employees.Where(e=>e.ID == employeeId).FirstOrDefault();

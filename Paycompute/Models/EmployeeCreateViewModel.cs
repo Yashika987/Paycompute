@@ -15,10 +15,10 @@ namespace Paycompute.Models
         RegularExpression(@"^[A-Z]{3,3}[0-9]{3}")]
         public string EmployeeNo { get; set; }
         [Required(ErrorMessage = "First Name is required"), StringLength(50, MinimumLength = 2)]
-        [RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$]"), Display(Name = "First Name")]
+        [RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$"), Display(Name = "First Name")]
         public string FirstName { get; set; }
         [Required(ErrorMessage = "Last Name is required"), StringLength(50, MinimumLength = 2)]
-        [RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$]"), Display(Name = "Last Name")]
+        [RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$"), Display(Name = "Last Name")]
         public string LastName { get; set; }
         public string FullName {
             get
@@ -37,9 +37,10 @@ namespace Paycompute.Models
         public string Designation { get; set; }
         [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
-        [DataType(DataType.EmailAddress)]
+        [Required, DataType(DataType.PhoneNumber), StringLength(14), Display(Name = "Phone Number")]
+
         public string PhoneNo { get; set; }
-        [Required, DataType(DataType.PhoneNumber), StringLength(14), Display(Name ="Phone Number")]
+        
         public string UAN { get; set; }
         [Display(Name ="Payment Method")]
         public PaymentMethod PaymentMethod { get; set; }

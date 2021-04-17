@@ -3,6 +3,8 @@ C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\obj\Debu
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfo.cs
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CoreCompileInputs.cache
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.deps.json
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.runtimeconfig.json
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.runtimeconfig.dev.json
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.pdb
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
@@ -12,3 +14,4 @@ C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\bin\Debu
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CopyComplete
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.dll
 C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.pdb
+C:\Users\YASHIKA MAHESHWARI\source\repos\Paycompute\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.genruntimeconfig.cache
