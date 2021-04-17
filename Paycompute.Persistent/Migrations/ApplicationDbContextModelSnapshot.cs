@@ -322,17 +322,17 @@ namespace Paycompute.Persistent.Migrations
                     b.Property<decimal>("HoursWorked")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<decimal>("NIC")
-                        .HasColumnType("money");
-
                     b.Property<decimal>("NetPayment")
                         .HasColumnType("money");
 
-                    b.Property<string>("NiNo")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<decimal>("OverTimeEarnings")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<decimal>("OvertimeHours")
                         .HasColumnType("decimal(18,2)");
+
+                    b.Property<decimal>("PFC")
+                        .HasColumnType("money");
 
                     b.Property<DateTime>("PayDate")
                         .HasColumnType("datetime2");
@@ -357,6 +357,9 @@ namespace Paycompute.Persistent.Migrations
 
                     b.Property<decimal>("TotalEarnings")
                         .HasColumnType("money");
+
+                    b.Property<string>("UAN")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal?>("UnionFee")
                         .HasColumnType("money");
